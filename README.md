@@ -18,3 +18,5 @@ This means that each app will have the following core files:
 ## Commands
 
 **Start Project**: `poetry run start`
+
+**Create new App**: `poetry run create-app`
