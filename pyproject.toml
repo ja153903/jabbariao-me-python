@@ -3,9 +3,7 @@ line-length = 79
 exclude = '''
 /(
     .git/
-    | .vscode/
     | __pycache__/
-    | .env
 )/
 '''
 
